@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Registration project</string>
+    <string name="app_in_name">Registration App </string>
+    <string name="register_name">Register App</string>
+    <string name="text_bottom">Увійдіть до свого облікового запису!</string>
+    <string name="btnSignIn">Увійти</string>
+    <string name="btnRegister">Зареєструватись</string>
+</resources>
